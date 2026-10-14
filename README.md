@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Manjima K
 
-<!--
-**manjima03/manjima03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Security Analyst | SOC | Blue Team**
 
-Here are some ideas to get you started:
+I build home labs to learn how attacks look from the defender's side: detecting, investigating, and hardening.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Kerala · 📫 manjimak28@gmail.com · 💼 www.linkedin.com/in/manjima-k
+
+---
+
+## 🔧 Skills & Tools
+
+| Area | Tools / Concepts |
+|------|------------------|
+| SIEM & Monitoring | Wazuh, Log analysis, Alert tuning, File Integrity Monitoring, Microsoft Sentinel, Splunk, Microsoft Defender |
+| Identity & Access | Active Directory, DNS, DHCP |
+| Operating Systems | Windows Server, Windows, Linux (Ubuntu/Kali) |
+| Frameworks | MITRE ATT&CK |
+| Virtualization | VirtualBox / VMware |
+| Other | Sysmon, PowerShell, Bash, Git, Azure |
+
+
+---
+
+## 🚀 Projects
+
+### 1. [Wazuh SIEM Lab](./wazuh-siem-lab)
+Deployed a Wazuh SIEM with Windows and Linux agents, then wrote custom detection rules and mapped alerts to MITRE ATT&CK.
+`Wazuh` `Sysmon` `MITRE ATT&CK` `Log Analysis`
+
+### 2. [Active Directory Lab](./active-directory-lab)
+Built a Windows domain environment with users, OUs, Group Policy, and security hardening.
+`Active Directory` `Windows Server` `PowerShell` `Azure` `Microsoft Sentinel` `Microsoft Defender`
+
+---
+
+## 🎯 Currently Working On
+- Integrating AD logs into Wazuh
+- Studying for Security+ 
+
+## 📜 Certifications
+- CompTIA Security+ in progress
+
+---
+
+*Everything here is built in isolated lab environments for educational purposes.*
