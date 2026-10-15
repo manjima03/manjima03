@@ -24,11 +24,11 @@ I build home labs to learn how attacks look from the defender's side: detecting,
 
 ## 🚀 Projects
 
-### 1. [Wazuh SIEM Lab](./wazuh-siem-lab)
+### 1. [Wazuh SIEM Lab](./Wazuh-SIEM-lab)
 Deployed a Wazuh SIEM with Windows and Linux agents, then wrote custom detection rules and mapped alerts to MITRE ATT&CK.
 `Wazuh` `Sysmon` `MITRE ATT&CK` `Log Analysis`
 
-### 2. [Active Directory Lab](./active-directory-lab)
+### 2. [Active Directory Lab](./Active-Directory-Lab)
 Built a Windows domain environment with users, OUs, Group Policy, and security hardening.
 `Active Directory` `Windows Server` `PowerShell` `Azure` `Microsoft Sentinel` `Microsoft Defender`
 
