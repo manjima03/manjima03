@@ -32,10 +32,14 @@ Deployed a Wazuh SIEM with Windows and Linux agents, then wrote custom detection
 Built a Windows domain environment with users, OUs, Group Policy, and security hardening.
 `Active Directory` `Windows Server` `PowerShell` `Azure` `Microsoft Sentinel` `Microsoft Defender`
 
+### 3. [Incident Reports](https://github.com/manjima03/Incident-Reports)
+Collection of incidents that I have worked on. 
+`Brute Force` `Splunk` `Documentation` `Incident Response`
+
 ---
 
 ## 🎯 Currently Working On
-- Integrating AD logs into Wazuh
+- More attack simulations on AD
 - Studying for Security+ 
 
 ## 📜 Certifications
